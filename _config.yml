@@ -1,14 +1,14 @@
 # Site settings
-title: Shanchui
+title: 山吹的墙
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  这个博客是一段心情
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://variable003.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Shanchui
-  github: github
+  github: https://variable003.github.io
   linkedin: linkedin
   email: 2397951125@qq.com
 
