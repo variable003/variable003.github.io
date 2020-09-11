@@ -20,7 +20,7 @@ subtitle: 一个想平平淡淡的山怪。
 ### 教育
 
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
+**课程**  
 Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
  
 Institute <span style="float: right; ">Duration</span>  
